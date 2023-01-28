@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sivasubramaniansivanayagam
 - 👀 I’m interested in Machine learning and Artificial intelligence...
-- 🌱 I’m currently learning Data science and Machine learning
+- 🌱 I’m a Data Scientist working in an Investment bank
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me rocksivamani.007@gmail.com
 
